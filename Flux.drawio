@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T00:44:35.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ldc9Nvhixd8Q7gwIxXJb" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T00:45:50.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lrWC1wXuvW8Ib0GM1Z0d" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-8" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="-10" as="offset" />
+            <mxPoint x="10" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Feature&lt;br&gt;Restante" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-7" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-8">
           <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
-            <mxPoint x="19" y="-6" as="offset" />
+            <mxPoint x="9" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Coordonnées&lt;br&gt;Restantes" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-4" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-3">
           <mxGeometry x="-0.16" y="-2" relative="1" as="geometry">
-            <mxPoint x="-62" y="-16" as="offset" />
+            <mxPoint x="-72" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YvKBgwHEcTg-mTc96LoB-10" target="WIyWlLk6GJQsqaUBKTNV-10">
@@ -63,7 +63,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-14" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-13">
           <mxGeometry x="-0.0791" y="-2" relative="1" as="geometry">
-            <mxPoint x="77" y="22" as="offset" />
+            <mxPoint x="67" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YvKBgwHEcTg-mTc96LoB-10" target="YvKBgwHEcTg-mTc96LoB-16">
@@ -71,7 +71,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-18" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-17">
           <mxGeometry x="-0.1333" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint x="-16" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-10" value="Coordonnée&lt;br&gt;Semblable&lt;br&gt;Précédente" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -82,7 +82,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-26" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-20">
           <mxGeometry x="-0.35" y="2" relative="1" as="geometry">
-            <mxPoint x="22" y="-7" as="offset" />
+            <mxPoint x="12" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YvKBgwHEcTg-mTc96LoB-16">
@@ -92,7 +92,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-34" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-33">
           <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="-9" as="offset" />
+            <mxPoint x="-19" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-16" value="Coordonnée&lt;br&gt;Existe dans&lt;br&gt;BD Neo4j" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -103,7 +103,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-50" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-28">
           <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
-            <mxPoint x="22" y="11" as="offset" />
+            <mxPoint x="12" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-19" value="Premiere Coordonnée de&lt;br&gt;la feature" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -119,7 +119,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-22" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-21">
           <mxGeometry x="-0.5442" relative="1" as="geometry">
-            <mxPoint x="45" y="10" as="offset" />
+            <mxPoint x="29" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-6">
@@ -127,7 +127,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-25" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-24">
           <mxGeometry x="-0.4124" relative="1" as="geometry">
-            <mxPoint x="-20" as="offset" />
+            <mxPoint x="10" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-27" value="Insérer lien avec&lt;br&gt;Noeud précédent&lt;br&gt;Dans Neo4j" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -144,7 +144,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-49" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-47">
           <mxGeometry x="0.6308" y="2" relative="1" as="geometry">
-            <mxPoint x="98" y="53" as="offset" />
+            <mxPoint x="80" y="93" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-35" value="Premiere Coordonnée de&lt;br&gt;la feature" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -178,7 +178,7 @@
         </mxCell>
         <mxCell id="YvKBgwHEcTg-mTc96LoB-51" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YvKBgwHEcTg-mTc96LoB-48">
           <mxGeometry x="-0.692" y="2" relative="1" as="geometry">
-            <mxPoint x="32" y="32" as="offset" />
+            <mxPoint x="32" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
